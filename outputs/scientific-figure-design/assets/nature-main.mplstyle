@@ -1,0 +1,28 @@
+# Nature main figures at final print size. Select the physical dimensions per figure.
+font.family: sans-serif
+font.sans-serif: Arial, Helvetica, DejaVu Sans
+font.size: 6
+axes.labelsize: 6
+axes.titlesize: 7
+xtick.labelsize: 6
+ytick.labelsize: 6
+legend.fontsize: 6
+axes.linewidth: 0.5
+xtick.major.width: 0.5
+ytick.major.width: 0.5
+xtick.minor.width: 0.4
+ytick.minor.width: 0.4
+xtick.major.size: 2.5
+ytick.major.size: 2.5
+lines.linewidth: 0.8
+lines.markeredgewidth: 0.5
+patch.linewidth: 0.6
+axes.spines.top: False
+axes.spines.right: False
+axes.grid: False
+legend.frameon: False
+figure.facecolor: white
+savefig.facecolor: white
+pdf.fonttype: 42
+ps.fonttype: 42
+svg.fonttype: none

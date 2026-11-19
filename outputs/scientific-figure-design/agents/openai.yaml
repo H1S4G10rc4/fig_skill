@@ -1,0 +1,4 @@
+interface:
+  display_name: "実験心理・神経科学・生物データ解析の研究図"
+  short_description: "行動・神経・生物データを英語表記の論文図や研究発表用の図に仕上げる"
+  default_prompt: "$scientific-figure-design を使って、このデータに合う図と図説明を作ってください。"
